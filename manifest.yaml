@@ -1,0 +1,5 @@
+runtime: python39
+apt:
+  - poppler-utils
+  - libpoppler-cpp-dev
+entrypoint: main.py

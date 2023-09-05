@@ -1,0 +1,9 @@
+functions-framework==3.*
+google-cloud-storage
+pdf2image
+cloudscraper
+bs4
+levenshtein
+svglib
+scikit-image
+scikit-learn
