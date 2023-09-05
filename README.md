@@ -1,2 +1,2 @@
 # gadfly
-general purpose web crawling image collector leveraging CLIP and scikit-image for CV
+general purpose web crawling image collector leveraging CLIP and scikit-learn (scikit-image) for CV
